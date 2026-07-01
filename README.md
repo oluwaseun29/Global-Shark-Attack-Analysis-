@@ -61,8 +61,9 @@ Interactive filters for Country, Year, and Gender
 ![Dashboard] ![Uploading 17829429837497573659075310031273.jpg…]()
 
 
-![Insights](Images/Insights.png)
-📈 Key Insights
+![Insights] <img width="1045" height="628" alt="17829431215185474604332039839076" src="https://github.com/user-attachments/assets/fa8ea7bc-0876-483a-8a31-9c156736f7de" />
+
+ Key Insights
 
 The dataset covers 166 countries and records 5,409 shark attacks.
 The United States recorded the highest number of reported shark attacks, followed by Australia and South Africa.
@@ -78,5 +79,7 @@ Install warning signs and provide real-time shark monitoring at popular beaches.
 Encourage swimmers and surfers to avoid entering the water during high-risk periods.
 Improve reporting systems to accurately identify shark species involved in attacks.
 Promote research and conservation efforts to better understand shark behavior while protecting marine ecosystems.
-✅ Conclusion
+
+Conclusion
+
 This analysis provides valuable insights into global shark attack patterns from 1900 to 2017. The findings indicate that the increase in reported shark attacks is largely associated with the growth of coastal populations and water-based recreational activities rather than increased shark aggression. The United States remains the country with the highest number of reported incidents, while afternoon hours account for the majority of attacks. By combining public awareness, improved beach safety measures, and ongoing marine research, the risk of shark attacks can be reduced while promoting the conservation of shark populations.
