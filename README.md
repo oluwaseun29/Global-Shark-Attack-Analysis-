@@ -55,10 +55,11 @@ Injury Classification
 Attack Trend by Year
 Interactive filters for Country, Year, and Gender
 
-📸 Dashboard Preview
+ Dashboard Preview
 
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard] ![Uploading 17829429837497573659075310031273.jpg…]()
+
 
 ![Insights](Images/Insights.png)
 📈 Key Insights
