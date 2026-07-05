@@ -55,14 +55,12 @@ Injury Classification
 Attack Trend by Year
 Interactive filters for Country, Year, and Gender
 
- Dashboard Preview
-
-
-![Dashboard] <img width="1183" height="667" alt="17829434028256664667852567109234" src="https://github.com/user-attachments/assets/0846617b-664a-4820-8b5b-1fe51beca7c0" />
+ Dashboard Preview alt="17829434028256664667852567109234" src="https://github.com/user-attachments/assets/0846617b
 
 
 
-![Insights] <img width="1045" height="628" alt="17829431215185474604332039839076" src="https://github.com/user-attachments/assets/fa8ea7bc-0876-483a-8a31-9c156736f7de" />
+
+
 
  Key Insights
 
