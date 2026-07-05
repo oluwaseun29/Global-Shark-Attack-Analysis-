@@ -56,7 +56,9 @@ Attack Trend by Year
 Interactive filters for Country, Year, and Gender
 
  Dashboard Preview 
- ![Uploading 17832656194834550443200065537325.jpg…]() <img width="1204" height="682" alt="17832656773677096918861259058632" src="https://github.com/user-attachments/assets/ba58b34b-6f5f-4ffe-8658-6b7d31a23f67" />
+<img width="1205" height="657" alt="17832683172994314846299665775427" src="https://github.com/user-attachments/assets/802f543c-05df-4c29-a3c7-ccfa36330da1" />
+ 
+ <img width="1204" height="682" alt="17832656773677096918861259058632" src="https://github.com/user-attachments/assets/ba58b34b-6f5f-4ffe-8658-6b7d31a23f67" />
 
 
 
