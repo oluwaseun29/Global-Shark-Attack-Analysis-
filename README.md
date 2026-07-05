@@ -56,7 +56,8 @@ Attack Trend by Year
 Interactive filters for Country, Year, and Gender
 
  Dashboard Preview 
- ![Uploading 17832656194834550443200065537325.jpg…]()
+ ![Uploading 17832656194834550443200065537325.jpg…]() <img width="1204" height="682" alt="17832656773677096918861259058632" src="https://github.com/user-attachments/assets/ba58b34b-6f5f-4ffe-8658-6b7d31a23f67" />
+
 
 
 
@@ -75,7 +76,8 @@ Lower limbs, especially legs and feet, were the most commonly injured body parts
 
 Recommendations
 
-Increase public education on shark safety, especially in high-risk coastal areas.
+Increase public education on shark safety, especially in high-risk coastal are
+as.
 Install warning signs and provide real-time shark monitoring at popular beaches.
 Encourage swimmers and surfers to avoid entering the water during high-risk periods.
 Improve reporting systems to accurately identify shark species involved in attacks.
